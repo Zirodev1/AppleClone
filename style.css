@@ -346,6 +346,7 @@ nav a {
 .productimg {
   width: 25%;
   height: 175px;
+  object-fit: cover;
 }
 
 .subhero {
@@ -371,6 +372,7 @@ footer {
 
 .footerLists {
   width: 65%;
+  max-width: 1300px;
   display: flex;
   justify-content: space-evenly;
   margin: 0 auto;
@@ -448,3 +450,4 @@ footer {
   margin-left: 300px;
   color: #666;
 }
+
