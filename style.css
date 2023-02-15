@@ -371,13 +371,13 @@ footer {
 }
 
 .footerLists {
-/*   width: 65%; */
-  max-width: 1100px;
-  display: flex;
-  justify-content: space-evenly;
-  margin: 0 auto;
-  line-height: 1.5;
-  font-size: 12px;
+    /* width: 65%; */
+    max-width: 1100px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    line-height: 1.5;
+    font-size: 12px;
 }
 
 .footerLists a {
