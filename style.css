@@ -371,8 +371,8 @@ footer {
 }
 
 .footerLists {
-  width: 65%;
-  max-width: 1300px;
+/*   width: 65%; */
+  max-width: 1100px;
   display: flex;
   justify-content: space-evenly;
   margin: 0 auto;
@@ -436,10 +436,11 @@ footer {
 }
 
 .bottomfooter {
-  width: 54%;
+/*   width: 54%; */
   margin: 1em auto;
   font-size: 12px;
   color: #999;
+   max-width: 1100px;
 }
 
 .copyright {
